@@ -1,0 +1,15 @@
+From: security@micros0ft-support.com
+To: employee@company.com
+Subject: Urgent Security Alert - Account Compromise Detected
+
+Dear user,
+
+We detected unusual login activity on your account from a new location (Russia, Moscow).
+
+To secure your account immediately, please verify your identity:
+
+http://micros0ft-security-login.com/verify
+
+Failure to verify within 30 minutes will result in account suspension.
+
+Microsoft Security Team
