@@ -1,0 +1,14 @@
+Rule 1:
+Detect domains with typosquatting patterns (e.g., micros0ft, googIe)
+
+Rule 2:
+Flag emails with urgent language + external login links
+
+Rule 3:
+Detect HTTP login pages requesting credentials
+
+Rule 4:
+Trigger alert if email contains:
+- credential request
+- urgency wording
+- external unknown domain
